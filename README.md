@@ -76,4 +76,3 @@ If all goes well, you shoud see **[Flask Dashboard Adminator](https://appseed.us
 
 ---
 [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - provided by **Admin-Dashboards.com**
-
